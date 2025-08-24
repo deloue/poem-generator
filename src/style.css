@@ -62,6 +62,9 @@ form {
   border-left: 3px solid #f15dd8;
   box-shadow: 0px 4px 30px 0px rgba(65, 33, 66, 0.03);
 }
+.poem strong {
+  color: #f15dd8;
+}
 
 footer {
   text-align: center;
